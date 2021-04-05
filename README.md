@@ -58,3 +58,7 @@ While it's great to want to be responsive to stakeholders, they're more interest
 2. Understand from a stakeholder perspective what consequences will the problem have, if it persists
 3. Avoid solving the symptoms and try to identify the problem. This way you could come out with the most valuable recommendation
 
+### Ask the focussing questions
+1. What is the real question ?
+2. Who are the stakeholders ?
+3. How will you measure success ?
