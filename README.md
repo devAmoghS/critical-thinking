@@ -52,3 +52,6 @@ While it's great to want to be responsive to stakeholders, they're more interest
 5. Spell out the assumptions attached with the problem
 6. Identify the stakeholders for which the problem statement is solved
 7. Establish the timelines
+
+#### Understand the real question
+1. Seek to understand why a solution is needed
