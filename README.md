@@ -32,3 +32,11 @@ When a problem becomes small, it often becomes simple.
 #### Your team has completed writing recommendations for solving a major problem in your business unit. How can you make implementation go smoothly?
 ##### by anticipating unintended consequences
 The recommendations may cause more problems than they solve.
+
+*************************
+
+#### Why do people tend to rush off and start solving the problem without understanding causes and consequences first?
+##### It makes them feel like they're being responsive to stakeholders.
+While it's great to want to be responsive to stakeholders, they're more interested in seeing you solve the true root causes, rather than just getting busy with problem solving.
+
+*************************
