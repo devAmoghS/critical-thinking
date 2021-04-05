@@ -71,3 +71,15 @@ While it's great to want to be responsive to stakeholders, they're more interest
 3. Were there any challenges last time this was addressed that we need to think about now ?
 4. What are the assumptions that are limiting us ?
 5. Who were involved with this problem the last time ?
+
+### Using new lenses to think critically
+1. Can we change the point of view ?
+2. Can we change the context ?
+3. Can you change reality ?
+
+*************************
+
+#### Focusing questions help you _____ a problem space.
+##### bound
+Focusing questions help you define the problem space and put boundaries on it. Without boundaries, your problem solving will be unfocused and inefficient
+
