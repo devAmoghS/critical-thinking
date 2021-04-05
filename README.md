@@ -104,3 +104,9 @@ Exactly. You must consider the consequences of your solution. If you don't, you 
 This is the most direct way to get insight into another point of view.
 
 *************************
+
+#### Your team is being asked to revisit a project that they completed three years ago. Which question should they address to clarify the problem definition?
+##### What circumstances have changed since three years ago?
+In order to best understand the problem, you need to understand how the situation has evolved.
+
+*************************
