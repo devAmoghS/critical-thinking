@@ -40,3 +40,15 @@ The recommendations may cause more problems than they solve.
 While it's great to want to be responsive to stakeholders, they're more interested in seeing you solve the true root causes, rather than just getting busy with problem solving.
 
 *************************
+
+### Define the problem statement -
+#### The problem statement defines what is the destination where we can say the project was a success.
+
+#### What is a problem statement composed of ?
+1. Outline the goals
+2. Set the boundaries on the problem solving space
+3. Define the success criteria
+4. Acknowledge the constraints bound to the problem
+5. Spell out the assumptions attached with the problem
+6. Identify the stakeholders for which the problem statement is solved
+7. Establish the timelines
