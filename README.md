@@ -28,3 +28,7 @@ Issues such as identifying stakeholders, information sources, bottlenecks, and l
 When a problem becomes small, it often becomes simple.
 
 *************************
+
+#### Your team has completed writing recommendations for solving a major problem in your business unit. How can you make implementation go smoothly?
+##### by anticipating unintended consequences
+The recommendations may cause more problems than they solve.
