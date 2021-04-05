@@ -62,3 +62,12 @@ While it's great to want to be responsive to stakeholders, they're more interest
 1. What is the real question ?
 2. Who are the stakeholders ?
 3. How will you measure success ?
+4. What is the scope of the problem ?
+5. What are the constraints you are facing ?
+
+### Examining past efforts
+1. Was this problem addressed in the past ?
+2. What is different now vs. then ?
+3. Were there any challenges last time this was addressed that we need to think about now ?
+4. What are the assumptions that are limiting us ?
+5. Who were involved with this problem the last time ?
