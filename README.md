@@ -115,4 +115,9 @@ In order to best understand the problem, you need to understand how the situatio
 Assess how does the following operate :
 1. Business model - what is your market and strategy ?
 2. Revenue - how do you expand the prodcuts, pricing, geography, reach ? 
-3. Cost - 
+3. Cost - how do you reduce the drag of business ?
+
+### How would you eliminate your job
+1. What work should you stop doing ?
+2. What work should you delegate to other members of the team ?
+3. What work could you automate ?
