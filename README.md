@@ -92,3 +92,9 @@ Focusing questions help you define the problem space and put boundaries on it. W
 The team will likely have to live with undesirable and unintended consequences.
 
 *************************
+
+#### Causality involves digging down to uncover root causes as well as considering the _____ of potential solutions.
+##### consequences
+Exactly. You must consider the consequences of your solution. If you don't, you risk creating more problems for yourself.
+
+*************************
