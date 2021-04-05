@@ -54,4 +54,7 @@ While it's great to want to be responsive to stakeholders, they're more interest
 7. Establish the timelines
 
 #### Understand the real question
-1. Seek to understand why a solution is needed
+1. Seek to understand why a solution is needed.
+2. Understand from a stakeholder perspective what consequences will the problem have, if it persists
+3. Avoid solving the symptoms and try to identify the problem. This way you could come out with the most valuable recommendation
+
