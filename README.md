@@ -85,3 +85,10 @@ While it's great to want to be responsive to stakeholders, they're more interest
 ##### bound
 Focusing questions help you define the problem space and put boundaries on it. Without boundaries, your problem solving will be unfocused and inefficient
 
+*************************
+
+#### You have a very efficient and reliable team member on your team, but they are infamous for treating symptoms rather than root causes. What is the likely outcome of using their quick assistance?
+##### Any fix provided will be short-lived.
+The team will likely have to live with undesirable and unintended consequences.
+
+*************************
