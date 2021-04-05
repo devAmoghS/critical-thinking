@@ -78,6 +78,8 @@ While it's great to want to be responsive to stakeholders, they're more interest
 3. Can you change reality ?
 
 *************************
+### Pop Quiz
+*************************
 
 #### Focusing questions help you _____ a problem space.
 ##### bound
