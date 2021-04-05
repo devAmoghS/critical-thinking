@@ -110,3 +110,9 @@ This is the most direct way to get insight into another point of view.
 In order to best understand the problem, you need to understand how the situation has evolved.
 
 *************************
+
+### Challenge how the business runs
+Assess how does the following operate :
+1. Business model
+2. Revenue
+3. Cost
