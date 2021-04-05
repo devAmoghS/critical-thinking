@@ -9,3 +9,12 @@
 
 1.When you go about solving a problem, think backwards about the causes, think forward about the consequences 
 2.Look at the causes and think backwards to make sure that you are not solving the symptoms, but solving the problem.
+
+### Breaking bigger problems into smaller pieces
+1. What is the big problem composed of ?
+2. Which are the smaller issues that are driving the big problem ?
+
+### Pop Quiz
+##### You start on a new project that seems very similar to previous work you've done. You immediately dive in and proceed as you have done before. Why is your bold start probably a mistake?
+##### You should take time to think critically about the scope of the project.
+Issues such as identifying stakeholders, information sources, bottlenecks, and lag times should be clarified.
