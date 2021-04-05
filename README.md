@@ -98,3 +98,9 @@ The team will likely have to live with undesirable and unintended consequences.
 Exactly. You must consider the consequences of your solution. If you don't, you risk creating more problems for yourself.
 
 *************************
+
+#### Your manager asks you to examine a new operational problem from the point of view of a customer. You are not clear on where to begin. How can you make a quick start on this task?
+##### by interviewing a few customers
+This is the most direct way to get insight into another point of view.
+
+*************************
