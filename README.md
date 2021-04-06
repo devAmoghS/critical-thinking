@@ -240,3 +240,8 @@ A good problem definition prevents you from jumping to conclusions too fast. It 
 
 *************************
 
+### You present your boss with an analysis and recommended actions for the employee retention program. Your boss asks what might happen in six months if you make these changes. You don't have an answer so your boss sends you away. What have you forgotten?
+#### to examine the consequences of your analysis
+Making recommendations is not a good idea, unless the consequences are thoroughly examined.
+
+*************************
