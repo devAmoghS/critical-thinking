@@ -177,3 +177,7 @@ What are the major drivers of the impact ? We want to chase the 20% of the drive
 In this instance, solving simple problems would have a large impact.
 
 *************************
+
+### Vilfredo Pareto, the author of the 80/20 rule, observed this rule to be in effect in both _____ and _____.
+#### real estate; gardening
+Pareto noticed that land ownership in Italy and peas in his garden both demonstrated the law of the vital few, which is the 80/20 rule. That rule states that a small number of causes have a large impact on the overall result.
