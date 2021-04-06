@@ -170,3 +170,10 @@ What are the major drivers of the impact ? We want to chase the 20% of the drive
  * By thinking critically, you may unlock some great opportunities you never would have considered before. 
 #### That extra time to go one more step beyond the easy answer the analysis gives you and ask what does this mean for the broader problem may help you create one of the best opportunities out there that you get to very efficiently and very effectively.
 
+*************************
+
+### Your colleague advocates for solving the easiest problems first. You advocate applying the 80/20 rule. When would your approaches agree?
+#### when the easy problems have major impacts
+In this instance, solving simple problems would have a large impact.
+
+*************************
