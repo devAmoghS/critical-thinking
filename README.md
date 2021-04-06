@@ -149,3 +149,15 @@ What are the major drivers of the impact ? We want to chase the 20% of the drive
 * Spend your time solving for those issues, the ones that have a disproportionate impact on the metric you're trying to move. 
 * It'll be a much more efficient use of your time, and you're going to solve the biggest problems your organization faces first.
 
+### How to do the conduct analysis
++ **High Road** - how does the analysis i am doing tied to that problem ?
+1. What am i prvong or disproving with the data i am analysing ?
+2. Estimate the benefits of the analysis before you start pulling data ?
+3. Will this analysis have an impact ?
+4. Does the answer I have achieved tie to the recommendation I am making ?
+
++ **Low Road** - is the deep analysis you are going to do
+1. Run only the numbers you need to run.
+2. Gather the data which is aligned with the scope of your problem.
+3. Dont stay in the data too long. Get in and get out of the data quickly. (Don't polish the dirt)
+4. Focus on the answers that matters.
