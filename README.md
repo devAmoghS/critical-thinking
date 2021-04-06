@@ -195,3 +195,10 @@ Asking repeated "whys" permits you to get past jargon and lazy thinking.
 Looking for similarities between unrelated areas can generate interesting new insights.
 
 *************************
+
+### Teach other to think critically
+
+1. Teach them these tools of critical thinking.
+2. Create opportunities for them to practice these tools.
+3. Coach your team in using these tools.
+4. Hold them accountable when using these tools everyday.
