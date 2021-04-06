@@ -113,15 +113,18 @@ In order to best understand the problem, you need to understand how the situatio
 
 ### Challenge how the business runs
 Assess how does the following operate :
-*. Business model - 
+
++  Business model - 
   1. what is your market and strategy ?
   2. how would you restart the whole thing all over ?
   3. how do you plan to double the top metric in a time frame of next two years ?
-*. Revenue - 
+
++  Revenue - 
  1. how do you expand the prodcuts, pricing, geography, reach ?
  2. who is creating better customer value than what we can ?
  3. how would you triple your profits in the timeframe of next five years ?  
-*. Cost - 
+
++ Cost - 
   1. how do you reduce the drag of business ?
   2. How you operate your business with 2/3 of the current human resources ?
   3. How would you eliminate your job ?
