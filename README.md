@@ -245,3 +245,11 @@ A good problem definition prevents you from jumping to conclusions too fast. It 
 Making recommendations is not a good idea, unless the consequences are thoroughly examined.
 
 *************************
+
+### How to apply critical thinking to everyday life ?
+
+1. Identify a problem
+2. Break the problem into smaller sub-problems
+3. Create a problem statement
+4. Look for the new solutions
+5. Focus on the meaningful ones
