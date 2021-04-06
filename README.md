@@ -196,9 +196,47 @@ Looking for similarities between unrelated areas can generate interesting new in
 
 *************************
 
-### Teach other to think critically
+### Teach others to think critically
 
 1. Teach them these tools of critical thinking.
 2. Create opportunities for them to practice these tools.
-3. Coach your team in using these tools.
+3. Coach your team in using these tools. Don't just focus on generating the answers but making them understand the applications.
 4. Hold them accountable when using these tools everyday.
+
+### Common pitfalls when solving problems
+
++ **Jumping to answers too quickly** You can avoid this pitfall by
+1. Defining the problem statement
+2. Ask and answer focusing questions
+3. Evaluate the prior efforts
+4. Look at the problem through new lenses
+5. Understand causality
+
++ **Unwilling to expand problem space** You can avoid this pitfall by
+1. Blowing up the business
+2. Asking the five whys
+
++ **Focussing on things that are unimportant** You can avoid this pitfall by
+1. The 80/20 rule
+
++ **Accepting the results at face value** You can avoid this pitfall by
+1. Take the high road
+2. Look for similarities
+
++ **Not thinking through future consequences** You can avoid this pitfall by
+1. Seven So Whats
+
+*************************
+
+### You have a team member who is a bit inflexible; they are prone to doing their job without much reflection and they do not like change. Which pitfalls likely impact their critical thinking?
+#### being unwilling to change the problem space, and failing to consider implications
+Both of these pitfalls are related to their unwillingness to change, and their dislike of analyzing results.
+
+*************************
+
+### Defining a clear problem statement can help you avoid this common pitfall.
+#### jumping to answers too quickly
+A good problem definition prevents you from jumping to conclusions too fast. It forces you to consider all elements of a problem before you move off to generating solutions.
+
+*************************
+
