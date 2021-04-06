@@ -189,3 +189,9 @@ Pareto noticed that land ownership in Italy and peas in his garden both demonstr
 Asking repeated "whys" permits you to get past jargon and lazy thinking.
 
 *************************
+
+### You just completed your analysis for a project and have your initial recommendation completed. After validating your results, what is the best next step you should take?
+#### compare your results with other unrelated projects to see if new insights emerge
+Looking for similarities between unrelated areas can generate interesting new insights.
+
+*************************
