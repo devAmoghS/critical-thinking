@@ -181,3 +181,11 @@ In this instance, solving simple problems would have a large impact.
 ### Vilfredo Pareto, the author of the 80/20 rule, observed this rule to be in effect in both _____ and _____.
 #### real estate; gardening
 Pareto noticed that land ownership in Italy and peas in his garden both demonstrated the law of the vital few, which is the 80/20 rule. That rule states that a small number of causes have a large impact on the overall result.
+
+*************************
+
+### Why is asking repeated "whys" useful?
+#### It enables you to get to root causes and a basic understanding of the true problem.
+Asking repeated "whys" permits you to get past jargon and lazy thinking.
+
+*************************
