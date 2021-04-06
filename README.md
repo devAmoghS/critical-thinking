@@ -161,3 +161,12 @@ What are the major drivers of the impact ? We want to chase the 20% of the drive
 2. Gather the data which is aligned with the scope of your problem.
 3. Dont stay in the data too long. Get in and get out of the data quickly. (Don't polish the dirt)
 4. Focus on the answers that matters.
+
+### Implications of your answer
+ * Look for links between the problems to come up with better solutions.
+ * So when you look at your answers that are coming out of your problem solving processes, think critically about those answers. 
+ * What connections can you make to other situations? 
+ * What can you learn from other problems you've solved and how can you apply those learnings to the problem you're trying to solve now? 
+ * By thinking critically, you may unlock some great opportunities you never would have considered before. 
+#### That extra time to go one more step beyond the easy answer the analysis gives you and ask what does this mean for the broader problem may help you create one of the best opportunities out there that you get to very efficiently and very effectively.
+
