@@ -136,3 +136,16 @@ Assess how does the following operate :
 
 1. What is the most wasteful activity we do as an organisation ?
 2. What is stopping us from stopping that ?
+
+### Using the five whys of critical thinking
+Asking the five whys will lead you to insight
+
+### Answering the seven so-whats of critical thinking
+This is a thinking tool that reveals the consequence of an action. It will lead you to all the implications and future consequences of an action
+
+### Using the 80 / 20 rule
+What are the major drivers of the impact ? We want to chase the 20% of the drivers creating 80% of the impact.
+* So, look at whatever problem you're trying to solve, understand what the drivers are, and understand how much each driver contributes to the overall impact you're trying to have. 
+* Spend your time solving for those issues, the ones that have a disproportionate impact on the metric you're trying to move. 
+* It'll be a much more efficient use of your time, and you're going to solve the biggest problems your organization faces first.
+
